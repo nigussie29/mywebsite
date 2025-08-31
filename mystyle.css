@@ -1,0 +1,18 @@
+
+body {
+ 
+  background-image: url("image.jpg");
+   background-color: lightblue;
+}
+
+h1 {
+  color: rgb(52, 17, 225);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 30px;
+  text-align: center;
+  color: blue;
+}
